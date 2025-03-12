@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Bünyamin Bogaz! 👋
+# 👋 Hi, I'm Bünyamin Boğaz! 👋
 
-Hi, I'm Bünyamin. But you can call me in english "Benjamin".
+You can call me in english "Benjamin"
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bunyaminbogaz)
 -->
